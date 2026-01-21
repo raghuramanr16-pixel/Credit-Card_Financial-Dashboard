@@ -1,2 +1,2 @@
-# Credit-Card_Financial-Dashboard
-power bi dashboard
+# Data Analytics Projects
+SQL | Power BI | Tableau | ML
